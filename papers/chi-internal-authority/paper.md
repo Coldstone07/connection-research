@@ -1,7 +1,7 @@
 # Designing for Internal Authority: AI Coaching Systems as a Counter to the Nodding Mirror
 
 **Authors:** Jatin Alla, Shalini Verma
-**Status:** Pre-submission draft — under review for ACM CHI 2027  
+**Status:** Pre-submission draft for ACM CHI 2027  
 **Target venue:** ACM CHI 2027 — Human Factors in Computing Systems  
 **Submission type:** Full paper  
 **CCS Concepts:** Human-centered computing → HCI design and evaluation methods; HCI theory, concepts and models; Empirical studies in HCI · Applied computing → Psychology
